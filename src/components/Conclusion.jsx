@@ -335,7 +335,7 @@ const Conclusion = () => {
             </div>
             <div className="Authorize">
               <div className="rights">
-                <p> @Poodle 2024 | All rights reserved </p>
+                <p> @Poodle 2024 | All rights reserved. </p>
               </div>
               <div className="terms">
                 <p>Terms & Conditions Apply</p>
