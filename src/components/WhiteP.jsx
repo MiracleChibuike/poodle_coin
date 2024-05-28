@@ -8,7 +8,7 @@ import poddle_logo from "../assets/images/logo_poddle.png";
 import drop_down from "../assets/images/drop-down.png";
 import Intro_Image from "../assets/images/Intro.jpeg";
 import next_icon from "../assets/images/next_icon.png";
-import X_Icon from "../assets/images/X_Black_App_icon.png"
+import X_Icon from "../assets/images/X_Icon.png"
 import T_Icon from "../assets/images/Telegram_Black.png";
 import BuyBack from "./BuyBack";
 
