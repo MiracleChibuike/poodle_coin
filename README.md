@@ -1,8 +1,7 @@
-# React + Vite
+# Poodle Coin
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Poodle is not just a meme coin,it's a community-driven project on the Solana blockchain with a vision
+to redefine the meme coin landscape. By combining presale, airdrop, and staking mechanisms,
+Poodle aims to create a sustainable and rewarding ecosystem that stands out in the decentralized finance space
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
