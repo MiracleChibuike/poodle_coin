@@ -1,0 +1,34 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+   font-family: "Ubuntu", sans-serif;
+}
+
+:root{
+    --clr-dark-white: #f3f3f3;
+  --clr-white-default: #fff;
+  --clr-dark-gray: rgb(150, 150, 150);
+  --clr-dark: #000;
+  --clr-blue: rgba(90, 90, 232, 0.852);
+  --clr-orange: #ad7307;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--clr-dark);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--clr-orange);
+  border-radius: 50px;
+}
+
+::-webkit-scrollbar-thumb:hover{
+  cursor: pointer;
+  /* background: var(-); */
+}

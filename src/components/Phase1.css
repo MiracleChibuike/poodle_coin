@@ -1,0 +1,33 @@
+
+:root {
+  --clr-dark-white: #f3f3f3;
+  --clr-white-default: #fff;
+  --clr-dark-gray: rgb(150, 150, 150);
+  --clr-dark: #000;
+  --clr-blue: rgba(90, 90, 232, 0.852);
+  --clr-orange: #ad7307;
+}
+
+
+.phase1Container{
+     margin: 10px ;
+    position: relative;
+    top: 70px;
+}
+
+.phase1_Contents{
+    margin: 45px 25px;
+}
+
+.phase1Title{
+    padding: 15px 0;
+    font-size: 2rem;
+}
+
+.phase1Info ol li{
+    padding: 10px;
+}
+
+.RoadMaps_phase{
+    margin: 130px 25px;
+}
