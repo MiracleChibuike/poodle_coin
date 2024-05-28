@@ -9,7 +9,7 @@ import drop_down from "../assets/images/drop-down.png";
 import Intro_Image from "../assets/images/Intro.jpeg";
 import next_icon from "../assets/images/next_icon.png";
 import go_left_icon from "../assets/images/go-left.jpeg"
-import X_Icon from "../assets/images/X_Black_App_icon.png";
+import X_Icon from "../assets/images/X_Black_App_Icon.png";
 import T_Icon from "../assets/images/Telegram_Black.png";
 
 
